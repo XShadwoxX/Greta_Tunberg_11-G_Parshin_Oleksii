@@ -1,0 +1,1 @@
+# Greta_Tunberg_11-G_Parshin_Oleksii
