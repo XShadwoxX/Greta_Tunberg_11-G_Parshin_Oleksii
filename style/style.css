@@ -1,0 +1,72 @@
+body {
+	background-color: grey;
+}
+
+h1 {
+    text-align: center;
+    width: 500px;
+    color: Black;
+    font-size: 35px;
+}
+
+p {
+    color: Black;
+    font-family: Tahoma;
+    line-height: 2;
+    font-size: 16px;
+    width: 800px;
+    text-align: left;
+}
+
+.text01 {
+    font-family: Tahoma;
+    background-color: grey;
+    width: 520px;
+    text-align: left;
+    margin: 25px;
+    padding: 0px 0px 15px 0px;
+    border-radius: 25px;
+}
+
+.text02 {
+    color: White;
+    font-family: Tahoma;
+    line-height: 0.5;
+    font-size: 14px;
+    padding: 0px 50px 0px 28px;
+}
+
+.pic {
+    width: 800px;
+}
+.pic03 {
+    width: 500px;
+    border-radius: 50px, 25px;
+}
+.pic04 {
+    width: 500px;
+    border-radius: 50px, 25px;
+    text-align: right;
+}
+
+.link1 {
+    color: Black;
+    font-family: Tahoma;
+    line-height: 2;
+    font-size: 16px;
+    text-align: center;
+}
+
+ul{
+   color: Black;
+    font-family: Tahoma;
+    line-height: 2;
+    font-size: 16px;
+    width: 800px;
+    text-align: left;
+}
+
+a {
+    font-family: Tahoma;
+    font-size: 20px;
+}
